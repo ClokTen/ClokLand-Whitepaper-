@@ -30,7 +30,7 @@ By eventually transitioning to **ClokChain**, ClokLand will have the scalability
 
 ## 5. Tokenomics
 
-- **$Clok10 Token:** The native currency of ClokLand, used for transactions, rewards, and governance. The initial conversion rate is 1 STX = 1,000,000 $Clok10.
+- **$Clok10 Token:** The native currency of ClokLand, used for transactions, rewards, and governance. The token has already been created and is currently available on the Stacks blockchain.
 - **Liquidity Pool Incentives:** To foster growth, users adding STX to the liquidity pool will receive a bonus of 100,000 $Clok10 per 1 STX during the initial campaign.
 
 ## 6. Roadmap
@@ -39,13 +39,14 @@ By eventually transitioning to **ClokChain**, ClokLand will have the scalability
 |--------------|------------------------------------------------------|------------------|
 | **Phase 1**  | Project Conceptualization and Whitepaper Release      | Q3 2024          |
 | **Phase 2**  | ClokLand Initial Development on Stacks Blockchain     | Q4 2024          |
-| **Phase 3**  | $Clok10 Token Launch and Liquidity Pool Campaign      | Q4 2024          |
-| **Phase 4**  | Launch of NFT Marketplace and Custom Coin DApps       | Q1 2025          |
-| **Phase 5**  | Virtual Concerts and Events Platform Go-Live          | Q2 2025          |
-| **Phase 6**  | DAO Implementation and Community Governance Setup     | Q3 2025          |
-| **Phase 7**  | "Name That Artist" Game and ClokLand Radio Launch     | Q4 2025          |
-| **Phase 8**  | ClokChain Development and Transition from ClokLand    | Q1 2026          |
-| **Phase 9**  | ClokChain Mainnet Launch and Full Decentralization    | Q3 2026          |
+| **Phase 3**  | $Clok10 Token Created and Listed                      | Q3 2024 (Completed)|
+| **Phase 4**  | Launch of ClokLand Radio                              | Q4 2024          |
+| **Phase 5**  | Launch of NFT Marketplace and Custom Coin DApps       | Q1 2025          |
+| **Phase 6**  | Virtual Concerts and Events Platform Go-Live          | Q2 2025          |
+| **Phase 7**  | DAO Implementation and Community Governance Setup     | Q3 2025          |
+| **Phase 8**  | "Name That Artist" Game and Other Gaming Features     | Q4 2025          |
+| **Phase 9**  | ClokChain Development and Transition from ClokLand    | Q1 2026          |
+| **Phase 10** | ClokChain Mainnet Launch and Full Decentralization    | Q3 2026          |
 
 ## 7. Future Developments
 
